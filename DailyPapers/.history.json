@@ -1,0 +1,102 @@
+[
+  {
+    "id": "2509.19296",
+    "date": "2026-04-29",
+    "title": "Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation"
+  },
+  {
+    "id": "2603.17240",
+    "date": "2026-04-29",
+    "title": "GigaWorld-Policy: An Efficient Action-Centered World--Action Model"
+  },
+  {
+    "id": "2603.19312",
+    "date": "2026-04-29",
+    "title": "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels"
+  },
+  {
+    "id": "2604.14268",
+    "date": "2026-04-29",
+    "title": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds"
+  },
+  {
+    "id": "2604.23775",
+    "date": "2026-04-29",
+    "title": "Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms"
+  },
+  {
+    "id": "2604.24764",
+    "date": "2026-04-29",
+    "title": "World-R1: Reinforcing 3D Constraints for Text-to-Video Generation"
+  },
+  {
+    "id": "2604.24916",
+    "date": "2026-04-29",
+    "title": "asRoBallet: Closing the Sim2Real Gap via Friction-Aware Reinforcement Learning for Underactuated Spherical Dynamics"
+  },
+  {
+    "id": "2604.25161",
+    "date": "2026-04-29",
+    "title": "Where Did It Go Wrong? Capability-Oriented Failure Attribution for Vision-and-Language Navigation Agents"
+  },
+  {
+    "id": "2604.25267",
+    "date": "2026-04-29",
+    "title": "Dynamic UGV-UAV Cooperative Path Planning in Uncertain Environments"
+  },
+  {
+    "id": "2604.25284",
+    "date": "2026-04-29",
+    "title": "Optimal UGV-UAV Cooperative Partitioning and Inspection of Shortest Paths"
+  },
+  {
+    "id": "2604.25323",
+    "date": "2026-04-29",
+    "title": "ANCHOR: A Physically Grounded Closed-Loop Framework for Robust Home-Service Mobile Manipulation"
+  },
+  {
+    "id": "2604.25329",
+    "date": "2026-04-29",
+    "title": "ProDrive: Proactive Planning for Autonomous Driving via Ego-Environment Co-Evolution"
+  },
+  {
+    "id": "2604.25459",
+    "date": "2026-04-29",
+    "title": "GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning"
+  },
+  {
+    "id": "2604.25534",
+    "date": "2026-04-29",
+    "title": "Sample-efficient Neuro-symbolic Proximal Policy Optimization"
+  },
+  {
+    "id": "2604.25541",
+    "date": "2026-04-29",
+    "title": "Bridging the Indoor-Outdoor Gap: Cross-Technology Ranging for Seamless Robot Navigation"
+  },
+  {
+    "id": "2604.25554",
+    "date": "2026-04-29",
+    "title": "Egocentric Tactile and Proximity Sensors as Observation Priors for Humanoid Collision Avoidance"
+  },
+  {
+    "id": "2604.25788",
+    "date": "2026-04-29",
+    "title": "KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning"
+  },
+  {
+    "id": "2604.25859",
+    "date": "2026-04-29",
+    "title": "Privileged Foresight Distillation: Zero-Cost Future Correction for World Action Models"
+  },
+  {
+    "id": "2604.25897",
+    "date": "2026-04-29",
+    "title": "Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty"
+  },
+  {
+    "id": "2604.25898",
+    "date": "2026-04-29",
+    "title": "TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning"
+  }
+]

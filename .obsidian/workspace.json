@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "DailyPapers/2026-04-29-论文推荐.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "2026-04-29-论文推荐"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "DailyPapers/2026-04-29-论文推荐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "2026-04-29-论文推荐 的反向链接列表"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
+                "file": "DailyPapers/2026-04-29-论文推荐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
+              "title": "2026-04-29-论文推荐 的出链列表"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "DailyPapers/2026-04-29-论文推荐.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "2026-04-29-论文推荐 的大纲"
             }
           }
         ]
@@ -201,8 +201,41 @@
   },
   "active": "d6841e1ebdaa09e0",
   "lastOpenFiles": [
-    "创建链接.md",
-    "未命名.base",
-    "欢迎.md"
+    "PaperNotes/_concepts/11-深度学习基础/MoE Survey.md",
+    "PaperNotes/_concepts/11-深度学习基础/GEPA.md",
+    "PaperNotes/_concepts/11-深度学习基础/DeepSeek-V3.md",
+    "PaperNotes/_concepts/0-uncategorized/DV-World.md",
+    "PaperNotes/_concepts/11-深度学习基础/DFlash.md",
+    "DailyPapers/2026-04-30-论文推荐.md",
+    "PaperNotes/PaperNotes.md",
+    "PaperNotes/_concepts/1-生成模型/3D Gaussian Splatting.md",
+    "PaperNotes/_inbox/GigaWorld-Policy.md",
+    "PaperNotes/_inbox/_inbox.md",
+    "PaperNotes/_concepts/8-仿真器/8-仿真器.md",
+    "PaperNotes/_concepts/7-规划与控制/7-规划与控制.md",
+    "PaperNotes/_concepts/6-3D视觉/6-3D视觉.md",
+    "PaperNotes/_concepts/5-导航与定位/5-导航与定位.md",
+    "PaperNotes/_concepts/4-足式运动/4-足式运动.md",
+    "PaperNotes/_concepts/3-机器人策略/3-机器人策略.md",
+    "PaperNotes/_concepts/2-强化学习/2-强化学习.md",
+    "PaperNotes/_concepts/14-安全与鲁棒性/14-安全与鲁棒性.md",
+    "PaperNotes/_concepts/13-机器人硬件/13-机器人硬件.md",
+    "PaperNotes/_concepts/11-深度学习基础/11-深度学习基础.md",
+    "PaperNotes/_concepts/10-数据集/10-数据集.md",
+    "PaperNotes/_concepts/1-生成模型/1-生成模型.md",
+    "PaperNotes/_concepts/0-uncategorized/0-uncategorized.md",
+    "PaperNotes/_concepts/_concepts.md",
+    "PaperNotes/_concepts/0-uncategorized/pi0.5.md",
+    "PaperNotes/_concepts/0-uncategorized/Vision-Language-Action Model.md",
+    "PaperNotes/_concepts/4-足式运动",
+    "PaperNotes/_concepts/8-仿真器",
+    "PaperNotes/_concepts/13-机器人硬件",
+    "PaperNotes/_concepts/10-数据集",
+    "PaperNotes/_concepts/11-深度学习基础",
+    "PaperNotes/_concepts/7-规划与控制",
+    "PaperNotes/_concepts/14-安全与鲁棒性",
+    "PaperNotes/_concepts/6-3D视觉",
+    "PaperNotes/_concepts/2-强化学习",
+    "PaperNotes/_concepts/3-机器人策略"
   ]
 }
